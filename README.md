@@ -14,7 +14,7 @@ This project builds a **supervised binary classification model** trained on 30,0
 
 ## 🚀 Live Demo
 
-👉 **[Open the Streamlit App] ()**
+👉 **[Open the Streamlit App] (https://vejktlcgvheavagxr9yjiq.streamlit.app/)**
 
 Enter a customer's 6-month credit history and get an instant default probability prediction.
 
